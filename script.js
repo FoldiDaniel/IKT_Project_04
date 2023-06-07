@@ -4,8 +4,8 @@ window.addEventListener('load', function () {
 
     const canvas = document.querySelector('#canvas1');
 
-    canvas.width = 800;
-    canvas.height = 1000;
+    canvas.width = 650;
+    canvas.height = 720;
 
     const ctx = canvas.getContext('2d');
 
